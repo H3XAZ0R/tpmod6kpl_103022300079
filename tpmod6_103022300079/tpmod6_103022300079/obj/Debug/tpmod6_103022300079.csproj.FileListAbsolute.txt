@@ -1,0 +1,7 @@
+C:\Users\syahd\Videos\TPMOD6\tpmod6_103022300079\tpmod6_103022300079\bin\Debug\tpmod6_103022300079.exe.config
+C:\Users\syahd\Videos\TPMOD6\tpmod6_103022300079\tpmod6_103022300079\bin\Debug\tpmod6_103022300079.exe
+C:\Users\syahd\Videos\TPMOD6\tpmod6_103022300079\tpmod6_103022300079\bin\Debug\tpmod6_103022300079.pdb
+C:\Users\syahd\Videos\TPMOD6\tpmod6_103022300079\tpmod6_103022300079\obj\Debug\tpmod6_103022300079.csproj.AssemblyReference.cache
+C:\Users\syahd\Videos\TPMOD6\tpmod6_103022300079\tpmod6_103022300079\obj\Debug\tpmod6_103022300079.csproj.CoreCompileInputs.cache
+C:\Users\syahd\Videos\TPMOD6\tpmod6_103022300079\tpmod6_103022300079\obj\Debug\tpmod6_103022300079.exe
+C:\Users\syahd\Videos\TPMOD6\tpmod6_103022300079\tpmod6_103022300079\obj\Debug\tpmod6_103022300079.pdb
